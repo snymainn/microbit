@@ -1,7 +1,7 @@
 # microbit
 Micro:bit project
 
-# XMAS
+# xmas.py
 * Simple XMAS decoration that I placed in the window
 
 
