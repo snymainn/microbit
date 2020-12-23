@@ -1,2 +1,7 @@
 # microbit
-Micro:bit projects
+Micro:bit project
+
+= XMAS =
+Simple XMAS decoration that I placed in the window
+
+
